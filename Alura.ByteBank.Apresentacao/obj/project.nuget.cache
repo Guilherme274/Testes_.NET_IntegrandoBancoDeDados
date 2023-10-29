@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "GPKZBSsMdCZusjuzWBRo8UsjDbCWrgWdAUnSAydGbb646+sRmTdmKqvXtwaykk8/cky4hsOwRZ6nrLNLbMIUsA==",
-  "success": false,
+  "dgSpecHash": "DZM4onl9a0KTHMTEYxORc47eVlcHfS8q6C2WyMuxTCzsyfqFPMlBccPMOadxevB01NJsLWXQqHeoo5n5K30Izg==",
+  "success": true,
   "projectFilePath": "D:\\Projects\\Testes_.NET_IntegrandoBancoDeDados\\Alura.ByteBank.Apresentacao\\Alura.ByteBank.Apresentacao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
@@ -72,20 +72,7 @@
     "C:\\Users\\guilh\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Não é possível encontrar o projeto 'D:\\Projects\\Testes_.NET_IntegrandoBancoDeDados\\Alura.ByteBank.Domain\\Alura.ByteBank.Dominio.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "D:\\Projects\\Testes_.NET_IntegrandoBancoDeDados\\Alura.ByteBank.Domain\\Alura.ByteBank.Dominio.csproj",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  "logs": []
 }

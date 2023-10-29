@@ -93,6 +93,16 @@
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
         }
+      },
+      "Alura.ByteBank.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Alura.ByteBank.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Alura.ByteBank.Dominio.dll": {}
+        }
       }
     }
   },
@@ -291,13 +301,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Alura.ByteBank.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Alura.ByteBank.Domain/Alura.ByteBank.Dominio.csproj",
+      "msbuildProject": "../Alura.ByteBank.Domain/Alura.ByteBank.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Alura.ByteBank.Dominio >= 1.0.0",
       "AutoMapper >= 10.1.1",
-      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.1",
-      "D:\\Projects\\Testes_.NET_IntegrandoBancoDeDados\\Alura.ByteBank.Domain\\Alura.ByteBank.Dominio.csproj"
+      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.1"
     ]
   },
   "packageFolders": {
@@ -363,20 +378,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -385,16 +386,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Não é possível encontrar o projeto 'D:\\Projects\\Testes_.NET_IntegrandoBancoDeDados\\Alura.ByteBank.Domain\\Alura.ByteBank.Dominio.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "D:\\Projects\\Testes_.NET_IntegrandoBancoDeDados\\Alura.ByteBank.Domain\\Alura.ByteBank.Dominio.csproj",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  }
 }

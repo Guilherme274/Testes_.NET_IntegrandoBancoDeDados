@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "60OxmIKhNixwagHw0lbhuTHN1T8B3uzgVZUJhUhlxHPY1wSJ20AsHrlXH5Py4Zk/jtstD4z6olimzDeZ5rsP/g==",
-  "success": false,
+  "dgSpecHash": "SEwkQ5wn2xiwYQEuoR8IJWvblQSgZq0aC+MiZ7NdZyUXmGa3exe9PUkyJtKemcEDoFlVH+x8LhjRp+SjYr/7Bw==",
+  "success": true,
   "projectFilePath": "D:\\Projects\\Testes_.NET_IntegrandoBancoDeDados\\Alura.ByteBank.Aplicacao\\Alura.ByteBank.Aplicacao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
@@ -10,20 +10,7 @@
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\guilh\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Não é possível encontrar o projeto 'D:\\Projects\\Testes_.NET_IntegrandoBancoDeDados\\Alura.ByteBank.Domain\\Alura.ByteBank.Dominio.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "D:\\Projects\\Testes_.NET_IntegrandoBancoDeDados\\Alura.ByteBank.Domain\\Alura.ByteBank.Dominio.csproj",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  "logs": []
 }
