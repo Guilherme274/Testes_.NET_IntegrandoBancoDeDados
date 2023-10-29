@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WC/8EwKwkCMYZrEtQOUm4fZ2ffxqeljxtDv/kqiKrZQJuWSZ5tIKrU8mraPNGobRuybt8glPfGsUMYDoMc9q3A==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\guilh\\Downloads\\Alura.ByteBank-aula01\\Testes_.NET_IntegrandoBancoDeDados\\Alura.ByteBank.Apresentacao\\Alura.ByteBank.Apresentacao.csproj",
+  "dgSpecHash": "GPKZBSsMdCZusjuzWBRo8UsjDbCWrgWdAUnSAydGbb646+sRmTdmKqvXtwaykk8/cky4hsOwRZ6nrLNLbMIUsA==",
+  "success": false,
+  "projectFilePath": "D:\\Projects\\Testes_.NET_IntegrandoBancoDeDados\\Alura.ByteBank.Apresentacao\\Alura.ByteBank.Apresentacao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
@@ -77,5 +77,15 @@
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'D:\\Projects\\Testes_.NET_IntegrandoBancoDeDados\\Alura.ByteBank.Domain\\Alura.ByteBank.Dominio.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "D:\\Projects\\Testes_.NET_IntegrandoBancoDeDados\\Alura.ByteBank.Domain\\Alura.ByteBank.Dominio.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }
