@@ -3,7 +3,7 @@ using Alura.ByteBank.Dominio.Entidades;
 
 namespace ClienteRepositorioTestes
 {
-    public class UnitTest1
+    public class ClienteRepositorioTestes
     {
         [Fact]
         public void TestaObterTodosoClientes()
